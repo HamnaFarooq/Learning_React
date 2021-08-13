@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+First, you need to add node_modules. For that, in the project directory, run the command:
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
